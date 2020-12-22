@@ -109,7 +109,7 @@ Imagen D43
    :width: 700 px
 
 From this point on, a 24 strand OS2 fiber optic cable is separated from Movistar splice enclosure located in route D41 and is routed using posts to the control gate located 
-inside the Aura Project site. Here the cable is routed along the main road from the control gate towards San Carlos road which runs through the valley through difficult terrain 
+inside the Aura Project site. Here the cable is routed along the main road from the control gate towards San Carlos road and extends through the valley under difficult terrain 
 conditions. This road is most commonly known as the service road. This cable was installed by Movistar using a series of electric and wooden poles with their respective splice 
 enclosures along the way splitting off to an optical terminal located in Cerro Pachon and Cerro Tololo. 
 
@@ -173,7 +173,7 @@ Responsibilities
 
 There are four things we have to keep in mind in case of failure:
 
-1.) Aura operations are responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
+1.) Aura operations is responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
 
 .. figure:: /_static/respon-aura.png
    :name: respon-aura
