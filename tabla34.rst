@@ -9,13 +9,15 @@ Acronym Description
 +--------------+---------------------------------------------------------+
 | BDC          | Base Data Center                                        |
 +--------------+---------------------------------------------------------+
-| DWDM         | Dense Wavelength Division Multiplexing                  |   
+| CAP          | Cable Area Principal                                    |   
 +--------------+---------------------------------------------------------+
-| OS2          | Optical Single-mode the number is the CAT of the cable  |
+| CR           | Computer Room                                           |
 +--------------+---------------------------------------------------------+
-| CAP          | Cable Area Princial                                     |
+| DWDM         | Dense Wavelength Division Multiplexing                  |
 +--------------+---------------------------------------------------------+
 | KM           | Kilometer                                               |
++--------------+---------------------------------------------------------+
+| OS2          | Optical Single-mode the number is the CAT of the cable  |                                        
 +--------------+---------------------------------------------------------+
 | REUNA        | Red Universitaria Nacional                              |
 +--------------+---------------------------------------------------------+
