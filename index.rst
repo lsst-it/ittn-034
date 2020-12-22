@@ -97,7 +97,7 @@ Movistar Data Center Main Plant to Vicuña
 
 At Movistar main plant a 96 Strand single-mode cable is born this cable is routed along route D41 road to Vicuña Aura project site, here 4 fibers are separated from this 96 
 strand fiber optic cable enclosure for Aura and are numbered as followed (25-26-27-28) providing connectivity between the Aura BDC and its various projects located in the 
-interior of the valley
+interior of the valley.
 
 The company in charge of the stretch between Movistar Datacenter and Vicuña is the service provider Claro. Claro routed the 96 strand fiber optic enclosure to  Vicuña separating 
 the fibers with 3 optic splice enclosures along route D41 whose owners are (Movistar, Claro, and Entel).
