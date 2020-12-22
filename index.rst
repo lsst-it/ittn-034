@@ -113,11 +113,20 @@ inside the Aura Project site. Here the cable is routed along the main road from 
 conditions. This road is most commonly known as the service road. This cable was installed by Movistar using a series of electric and wooden poles with their respective splice 
 enclosures along the way splitting off to an optical terminal located in Cerro Pachon and Cerro Tololo. 
 
-Imagen Valle Aura Project Site
+Valle Aura Project Site Image1
 -------------------------------
 .. figure:: /_static/rutavalle.png
    :name: rutavalle
    :width: 700 px
+   
+Valle Aura Project Site Image2
+------------------------------
+
+.. figure:: /_static/ruta.png
+   :name: ruta
+   :width: 700 px
+   
+https://confluence.lsstcorp.org/display/IT/Technical+Documentation.+Guido   
    
 
 San Carlos Road / Service Road
@@ -179,7 +188,7 @@ There are four things we have to keep in mind in case of failure:
 3.) The segment between Movistar Datacenter in La Serena and the optical fiber enclosure mentioned in point 2 located in route D41 both REUNA, Movistar, and Claro are 
 responsible for failures and repairs.
 
-.. figure:: /_static/respon-claro
+.. figure:: /_static/respon-claro.png
    :name: respon-claro
    :width: 700 px
    
