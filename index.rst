@@ -104,8 +104,8 @@ the fibers with 3 optic splice enclosures along route D41 whose owners are (Movi
 
 Imagen D43
 ----------
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/D43.png
+   :name: D43
    :width: 700 px
 
 From this point on, a 24 strand OS2 fiber optic cable is separated from Movistar splice enclosure located in route D41 and is routed using posts to the control gate located 
@@ -115,9 +115,13 @@ enclosures along the way splitting off to an optical terminal located in Cerro P
 
 Imagen Valle Aura Project Site
 -------------------------------
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/ruta-valle.PNG
+   :name: ruta-valle
    :width: 700 px
+   
+   .. figure:: /_static/ruta.PNG
+   :name: ruta
+   :width: 900 px
 
 San Carlos Road / Service Road
 ==============================
@@ -127,9 +131,9 @@ optical fibers to Pachon and Tololo.
 
 Mufa Bifurcacion image
 ----------------------
-.. figure:: /_static/
-   :name: 
-   :width: 700 px
+.. figure:: /_static/mufabifu.PNG
+   :name: mufabifu
+   :width: 800 px
 
 
 The other splice enclosure is located in Cerro Pachon inside the communication room known in Spanish as "Mufa Caseta Pachon". This splice enclosure is in charge of distributing 
@@ -138,9 +142,9 @@ Rubin Observatory DWDM for science use.
 
 Mufa de Caseta Pachon image
 ---------------------------
-.. figure:: /_static/
-   :name: 
-   :width: 700 px
+.. figure:: /_static/mufacase.PNG
+   :name: mufacase
+   :width: 800 px
 
 Optical Terminal
 =================
@@ -152,9 +156,9 @@ In the confluence page found below, there's additional information about the opt
 
 Optical Terminal image
 -----------------------
-.. figure:: /_static/
-   :name: 
-   :width: 700 px
+.. figure:: /_static/optical-terminal.PNG
+   :name: optical-terminal
+   :width: 900 px
 
 https://confluence.lsstcorp.org/display/IT/Fiber+Optic+-+AURA+Caseta+Pachon
 
@@ -164,24 +168,24 @@ Responsibilities
 There are four things we have to keep in mind in case of failure:
 
 1.) Aura operations are responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/respon-aura.png
+   :name: respon-aura
    :width: 700 px
 
 2.) REUNA alongside Movistar is responsible for the segment between the control gate and route D41 where the fiber enclosure is located.
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/respon-mov.png
+   :name: respon-mov
    :width: 700 px
    
 3.) The segment between Movistar Datacenter in La Serena and the optical fiber enclosure mentioned in point 2 located in route D41 both REUNA, Movistar, and Claro are 
 responsible for failures and repairs.
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/respon-claro
+   :name: respon-claro
    :width: 700 px
    
 4.) As for the segment between Movistar Datacenter and Aura BDC the responsibility is shared between REUNA, Movistar, and AURA Operations.
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/respon-mov-aura.png
+   :name: respon-mov-aura
    :width: 700 px
    
 Acronyms
