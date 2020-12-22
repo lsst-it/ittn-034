@@ -55,77 +55,104 @@
 Introduction
 ============
 
-The purpose of this document is to describe the deployment of fiber optics from the data center located in the city of La Serena in the Coquimbo region in the Aura area that 
-ends in the communications rooms located at the Cerro Pachón site and Cerro Tololo in the Coquimbo region in the city of Vicuña.
+The following documentation will describe the current deployment of the fiber optic connections. These connections start at the AURA datacenter located in the City of La Serena, 
+Coquimbo, and extend towards the communications room located in Cerro Pachon and Cerro Tololo in the interior valleys of Vicuña, Coquimbo.  
 
-The intention of this document is to detail the information of the optical fiber, its locations, and its route. It also details responsibilities for fiber optic maintenance and 
-repair depending on its location.
+This document will also provide insight into the fiber optic connections, its areas where these are deployed, and the routes that these follow. Along with the procedures 
+followed in case of failures and repairs. 
 
-All this cable laying project in the different locations both Cerro Pachón, Tololo, BDC, Movistar communications center, Route D41, consider installing single-mode cable OS2.
+The idea to connect the various projects that Aura is responsible for including Tololo, Rubin, SOAR, Gemini, and any other project that might require a physical connection arose 
+from the idea of using an existing fiber optic cable that extends along route D41 from Santiago to La Serena. This cable was installed by three major telecommunication companies 
+in Chile (Movistar, Claro, and Entel). This cable also serves as a backup for the national fiber optic cable that runs from Arica to Punta Arenas on Panamericana Highway Ruta 5.
 
-The project to connect the telescopes arose from the existence of a new fiber optic cable that was installed by the 3 major communications companies in Chile, Movistar, Claro, 
-and Entel, which runs from Santiago through towns and inland roads near the pre mountain range. that ends in the City of La Serena. To serve as a backup for the national fiber 
-that is installed from Arica to Punta Arenas by highway Ruta 5 (Panamericana Highway).
+Aura used this opportunity to connect their various projects to this cable and extend their communication towards the Aura data center located in La Serena and the US.  
 
-With the existence of this fiber optic cable, the Aura observatories had the opportunity to connect with fiber optics from Cerro Pachón and Cerro Tololo with the city of La 
-Serena and from there to the United States.
+It is worth mentioning, when this document refers to the term Aura BDC it refers to the data center that is in the City of La Serena. When the document alludes to the Aura site 
+itself, it refers to the land that is owned by Aura from the control gate into the various project sites. 
 
-“It is worth mentioning that when this document refers to the term Aura Enclosure it refers to the land that is in the City of La Serena and when mentioning Site of Aura it 
-refers to the land that is owned by Aura from the control gate and the hills Pachon and Tololo ”.
+Note: OS2 Single-Mode fiber was used to connect the following sites: Cerro Pachon, Tololo, La Serena Base Data Center (BDC), Movistar Data Center, and route D41. 
 
-Fiber optic route from BDC to Pachon-Tololo
-===========================================
+Fiber optic route from BDC to Data center Movistar
+==================================================
 
-The fiber optic cable laying begins from the BDC in rack A1 which are spliced at an optical terminal at locations U48 and U47 and passes through the interior of the Aura 
-enclosure and is spliced to a Movistar trunk located in The exterior of the enclosure and it goes through different routes and reaches a main plant of the Movistar company and 
-inside it, they connect to an internal optical terminal of the company and the name given by Movistar to these cables are CAP01 and CAP02. These cables (Cap01-02) provide us 
-with many services such as telephony and Internet and also connect the Aura enclosure with the Pachón and Tololo hills. Also, be clear that these 2 cables do not provide us with 
-a main and backup service, therefore each cable contains different services that are different from each other.
+The current deployment of the fiber optic connections starts at the La Serena Base Data Center (BDC) in rack A1 which are spliced in an optical terminal in slot U48 and U47 of 
+this rack. These connections pass through the interior of the Aura BDC and are spliced to the Movistar trunk that is located in the exterior of the Aura BDC. This cable extends 
+towards Movistar Data center main plant and is connected to one of their optical terminals, Movistar has given these cables the name of CAP01 and CAP02. These cables provide 
+Aura BDC many services, first, they provide connectivity to the various Aura projects located in the interior of Vicuña. Second, they also provide internet connectivity to the 
+Aura building and base data center systems.
 
-Cap 01- Cap 02 imagen
+It is important to mention that these cables do not provide Aura with a main and backup service in case of failure, this is why each cable contains independent services that are 
+different from one another.  
 
-A 96-strand single-mode  cable is born from the main plant of Movistar and is connected to the optical terminal that receives the optical fibers from the AURA campus and this 
-cable runs along the D41 road to Vicuña and then reaches Santiago and the numbers of the reserved optical fibers for the AURA project that travel on the cable corresponds to the 
-numbering 25-26-27-28.
+Cap 01- Cap 02 image
+--------------------
 
-The service provider in charge of 96-filament fiber optics in the sector between the MOVISTAR plant and Vicuña is the company CLARO. And every certain kilometer of the route 
-they installed 3 splice closures for the communications companies involved to remember are (MOVISTAR, CLARO, ENTEL).
+Note: The image displayed above, illustrated approximately how the cable is routed through the various points of interest. 
 
-As explained, at this point the project to connect the hills by means of a 24-strand single-mode fiber optic cable OS2 arises from a junction closure that is approximately 1.5 
-kilometers past the entrance road to the site through route D41 that reaches the gate control. The company that carried out the laying works was  Movistar. The installation 
-begins from the junction closure on route D41 and is extended by means of posts and enters the Aura site, passing through the gate control and passing through the main road and 
-then enters the road called San Carlos, which runs through the hills through an internal road difficult to travel and this is called the site service road. The fiber optic was 
-installed on electric poles and wooden poles were also installed by the Movistar company that is now owned by Aura. Along the way, splice closures were installed and the fiber 
-optic ends in optical terminals on Cerro Pachon and Cerro Tololo.
+Movistar Data Center Main Plant to Vicuña
+=========================================
 
-Route San Carlos
+At Movistar main plant a 96 Strand single-mode cable is born this cable is routed along route D41 road to Vicuña Aura project site, here 4 fibers are separated from this 96 
+strand fiber optic cable enclosure for Aura and are numbered as followed (25-26-27-28) providing connectivity between the Aura BDC and its various projects located in the 
+interior of the valley
 
-On the route from gate control to the summit of Cerro Pachón and Tololo, we have 2 important splices closures due to their distribution of filaments to distribute connections to 
-different points in both hills.
+The company in charge of the stretch between Movistar Datacenter and Vicuña is the service provider Claro. Claro routed the 96 strand fiber optic enclosure to  Vicuña separating 
+the fibers with 3 optic splice enclosures along route D41 whose owners are (Movistar, Claro, and Entel).
 
-We have the splices closure called ‘’ Mufa Bifurcacion’’ and this splice closure is in charge of distributing optical fibers for Pachón and Tololo hills.
+Imagen D43
+----------
+
+From this point on, a 24 strand OS2 fiber optic cable is separated from Movistar splice enclosure located in route D41 and is routed using posts to the control gate located 
+inside the Aura Project site. Here the cable is routed along the main road from the control gate towards San Carlos road which runs through the valley through difficult terrain 
+conditions. This road is most commonly known as the service road. This cable was installed by Movistar using a series of electric and wooden poles with their respective splice 
+enclosures along the way splitting off to an optical terminal located in Cerro Pachon and Cerro Tololo. 
+
+Imagen Valle Aura Project Site
+-------------------------------
+
+San Carlos Road / Service Road
+==============================
+
+Along the service road, there are 2 important splice enclosures, one of this enclosure is commonly known in spanish as "Mufa Bifurcacion" which is in charge of distributing the 
+optical fibers to Pachon and Tololo. 
 
 Mufa Bifurcacion image
+-----------------------
 
-We also have the splice closure that is located inside the Pachón Caseta located at the top of Pachón hill and its name is "Mufa Caseta Pachón" and this splice closure is in 
-charge of distributing fibers for the Pachón hill DWDM that delivers connections for the Gemini, Soar, Tololo and Rubin observatory and at the same time, this splice closure 
-also routes fibers over another fiber optic cable to the Rubin observatory and its own dedicated DWDM for science.
+
+The other splice enclosure is located in Cerro Pachon inside the communication room known in Spanish as "Mufa Caseta Pachon". This splice enclosure is in charge of distributing 
+the optical fibers to Pachon Hill DWDM which in turn provides connectivity to Gemini, SOAR, Tololo, Rubin Observatory, and at the same time it also routes the fibers over to 
+Rubin Observatory DWDM for science use.
 
 Mufa de Caseta Pachon image
+----------------------------
 
-The rest of the splice closures that we find in the aura site are spliced 1 to 1 or straight and do not have differences between them.
+Optical Terminal
+=================
 
-I share information about some optical terminals and their specifications and locations to connect
+It is important to mention that the rest of the optical splice enclosures that were installed in the Aura Project Site are spliced in a 1 to 1 or straight method and are all the 
+same. 
+
+In the confluence page found below, there's additional information about the optical terminals used along with their specifications and areas to which these connect. 
 
 Optical Terminal image
+-----------------------
 
 https://confluence.lsstcorp.org/display/IT/Fiber+Optic+-+AURA+Caseta+Pachon
 
-Already mentioned this, we must understand that if we have any failure in the fiber optic laying in the gate control section at the site (on the hill) and up to the Movistar 
-plant in the center of La Serena our regular channel is to notify Reuna and this will deliver the request to Movistar and finally it will deliver the request to the Claro 
-company. Now if the problem is from the Movistar plant to the Aura enclosure and the data center, the regular conduit is Reuna, this delivers the request to Movistar and the 
-latter gives us a solution. Now if we have a fault from the gate control to the connections of the Summit owned by Aura, it is clearly the responsibility of Aura Operations to 
-find a solution.
+Responsibilities
+=================
+
+There are four things we have to keep in mind in case of failure:
+
+1.) Aura operations are responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
+
+2.) REUNA alongside Movistar is responsible for the segment between the control gate and route D41 where the fiber enclosure is located.
+
+3.) The segment between Movistar Datacenter in La Serena and the optical fiber enclosure mentioned in point 2 located in route D41 both REUNA, Movistar, and Claro are 
+responsible for failures and repairs.
+
+4.) As for the segment between Movistar Datacenter and Aura BDC the responsibility is shared between REUNA, Movistar, and AURA Operations.
 
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
