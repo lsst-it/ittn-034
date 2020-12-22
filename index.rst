@@ -154,6 +154,9 @@ responsible for failures and repairs.
 
 4.) As for the segment between Movistar Datacenter and Aura BDC the responsibility is shared between REUNA, Movistar, and AURA Operations.
 
+Acronyms
+========
+
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 .. .. rubric:: References
