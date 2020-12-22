@@ -72,6 +72,10 @@ itself, it refers to the land that is owned by Aura from the control gate into t
 
 Note: OS2 Single-Mode fiber was used to connect the following sites: Cerro Pachon, Tololo, La Serena Base Data Center (BDC), Movistar Data Center, and route D41. 
 
+Note: The length between Aura BDC and Cerro Pachon specifically (Caseta Pachon), the link between these 2 points is 92 KM approximately.  From Aura BDC to Cerro Pachon Computer 
+Room (Rubin observatory), the length between these 2 points is around 95 KM approximately.
+
+
 Fiber optic route from BDC to Data center Movistar
 ==================================================
 
