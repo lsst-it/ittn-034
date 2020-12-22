@@ -201,6 +201,8 @@ responsible for failures and repairs.
 Acronyms
 ========
 
+.. include:: tabla34.rst
+
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 .. .. rubric:: References
