@@ -119,9 +119,6 @@ Imagen Valle Aura Project Site
    :name: rutavalle
    :width: 700 px
    
- .. figure:: /_static/ruta.PNG
-   :name: ruta
-   :width: 700 px
 
 San Carlos Road / Service Road
 ==============================
