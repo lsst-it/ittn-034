@@ -165,22 +165,26 @@ Responsibilities
 There are four things we have to keep in mind in case of failure:
 
 1.) Aura operations are responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
+
 .. figure:: /_static/respon-aura.png
    :name: respon-aura
    :width: 700 px
 
 2.) REUNA alongside Movistar is responsible for the segment between the control gate and route D41 where the fiber enclosure is located.
+
 .. figure:: /_static/respon-mov.png
    :name: respon-mov
    :width: 700 px
    
 3.) The segment between Movistar Datacenter in La Serena and the optical fiber enclosure mentioned in point 2 located in route D41 both REUNA, Movistar, and Claro are 
 responsible for failures and repairs.
+
 .. figure:: /_static/respon-claro
    :name: respon-claro
    :width: 700 px
    
 4.) As for the segment between Movistar Datacenter and Aura BDC the responsibility is shared between REUNA, Movistar, and AURA Operations.
+
 .. figure:: /_static/respon-mov-aura.png
    :name: respon-mov-aura
    :width: 700 px
