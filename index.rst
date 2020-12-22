@@ -122,7 +122,7 @@ Valle Aura Project Site Image1
 Valle Aura Project Site Image2
 ------------------------------
 
-.. figure:: /_static/ruta.png
+.. figure:: /_static/ruta.PNG
    :name: ruta
    :width: 700 px
    
