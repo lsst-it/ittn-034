@@ -115,13 +115,13 @@ enclosures along the way splitting off to an optical terminal located in Cerro P
 
 Imagen Valle Aura Project Site
 -------------------------------
-.. figure:: /_static/ruta-valle.png
-   :name: ruta-valle
+.. figure:: /_static/rutavalle.png
+   :name: rutavalle
    :width: 700 px
    
- ..figure:: /_static/ruta.PNG
+ .. figure:: /_static/ruta.PNG
    :name: ruta
-   :width: 900 px
+   :width: 700 px
 
 San Carlos Road / Service Road
 ==============================
