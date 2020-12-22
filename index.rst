@@ -86,8 +86,8 @@ different from one another.
 
 Cap 01- Cap 02 image
 --------------------
-.. figure:: /_static/
-   :name: 
+.. figure:: /_static/cap.png
+   :name: cap
    :width: 700 px
 
 Note: The image displayed above, illustrated approximately how the cable is routed through the various points of interest. 
