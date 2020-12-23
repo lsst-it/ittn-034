@@ -108,7 +108,7 @@ the fibers with 3 optic splice enclosures along route D41 whose owners are (Movi
 
 Imagen D43
 ----------
-.. figure:: /_static/ruta-serena-vicuna.png
+.. figure:: /_static/ruta-serena- vicuna.png
    :name: ruta-serena-vicuna
    :width: 700 px
 
@@ -180,7 +180,7 @@ There are four things we have to keep in mind in case of failure:
 
 1.) Aura operations is responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
 
-.. figure:: /_static/ruta-valle-cerros-noirlab.png
+.. figure:: /_static/ruta-valle-cerros -noirlab.png
    :name: ruta-valle-cerro-noirlab
    :width: 700 px
 
