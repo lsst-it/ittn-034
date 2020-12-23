@@ -108,9 +108,9 @@ the fibers with 3 optic splice enclosures along route D41 whose owners are (Movi
 
 Imagen D43
 ----------
-.. figure:: /_static/D43.png
-   :name: D43
-   :width: 700 px
+.. figure:: /_static/ruta-serena-vicuna.png
+   :name: ruta-serena-vicuna
+   :width: 800 px
 
 From this point on, a 24 strand OS2 fiber optic cable is separated from Movistar splice enclosure located in route D41 and is routed using posts to the control gate located 
 inside the Aura Project site. Here the cable is routed along the main road from the control gate towards San Carlos road and extends through the valley under difficult terrain 
@@ -119,8 +119,8 @@ enclosures along the way splitting off to an optical terminal located in Cerro P
 
 Valle Aura Project Site Image1
 -------------------------------
-.. figure:: /_static/rutavalle.png
-   :name: rutavalle
+.. figure:: /_static/ruta-valle-cerros.png
+   :name: ruta-valle-cerro
    :width: 700 px
    
 Valle Aura Project Site Image2
@@ -179,27 +179,27 @@ There are four things we have to keep in mind in case of failure:
 
 1.) Aura operations is responsible for the segment located between the control gate and the areas where the different projects reside (Cerro Pachon and Cerro Tololo). 
 
-.. figure:: /_static/respon-aura.png
-   :name: respon-aura
+.. figure:: /_static/ruta-valle-cerro-noirlab.png
+   :name: ruta-valle-cerro-noirlab
    :width: 700 px
 
 2.) REUNA alongside Movistar is responsible for the segment between the control gate and route D41 where the fiber enclosure is located.
 
-.. figure:: /_static/respon-mov.png
-   :name: respon-mov
+.. figure:: /_static/ruta-valle-cerro-movistar.png
+   :name: ruta-cerro-movustar
    :width: 700 px
    
 3.) The segment between Movistar Datacenter in La Serena and the optical fiber enclosure mentioned in point 2 located in route D41 both REUNA, Movistar, and Claro are 
 responsible for failures and repairs.
 
-.. figure:: /_static/respon-claro.png
-   :name: respon-claro
+.. figure:: /_static/ruta-serena-vicuna-claro.png
+   :name: ruta-serena-vicuna-claro
    :width: 700 px
    
 4.) As for the segment between Movistar Datacenter and Aura BDC the responsibility is shared between REUNA, Movistar, and AURA Operations.
 
-.. figure:: /_static/respon-mov-aura.png
-   :name: respon-mov-aura
+.. figure:: /_static/ruta-serena-base-managed.png
+   :name: ruta-serena-base-managed
    :width: 700 px
    
 Acronyms
