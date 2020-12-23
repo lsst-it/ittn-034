@@ -108,8 +108,8 @@ the fibers with 3 optic splice enclosures along route D41 whose owners are (Movi
 
 Imagen D43
 ----------
-.. figure:: /_static/ruta-serena- vicuna.png
-   :name: ruta-serena-vicuna
+.. figure:: /_static/ruta-serena-vicu.png
+   :name: ruta-serena-vicu
    :width: 700 px
 
 From this point on, a 24 strand OS2 fiber optic cable is separated from Movistar splice enclosure located in route D41 and is routed using posts to the control gate located 
